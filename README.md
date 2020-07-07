@@ -6,9 +6,27 @@ A collection of one shots sampled from a Eurorack Modular synthesizer.
 -  **Formats:** AIF & WAV
 -   **Approx Size:** 94mb
 
-# Support this project
+# Help out
+  
+Hey you! Yes, you with the sampler! This project really needs your help! 
 
-Do you find these samples useful? If so please consider supporting the project on [Patreon](https://www.patreon.com/bePatron?u=3947038) or buying a [hard disk from our Etsy store](https://www.etsy.com/uk/shop/ModularSamplesDisks?ref=simple-shop-header-name&listing_id=757501884). They contain the entire Modular Samples collection and a few extras.
+ - New formats. Currently only EXS24, Kontakt & SFZ are supported. 
+ - The SFZ files are largely untested. 
+ - New sounds!
+ 
+ If you'd like to get involved take a look at the issues page or get in [touch via email](mailto:modularsamples@gmail.com) to discuss the project.
 
-We actively encourage people to modify and improve these sounds. If you have created patches, added new formats or even recorded new samples then create an new issue for this repository, or get in [touch via email](modularsamples@gmail.com) to discuss access to the project.
+#
 
+
+# Donate
+
+[![patreon](https://www.modularsamples.com/sites/default/files/inline-images/wordmark_on_navy_1.jpg)](https://www.patreon.com/modularsamples)  
+
+# Disks
+
+[![ua](https://www.modularsamples.com/sites/default/files/inline-images/usb-stick-vector-clipart_0.png)](https://www.etsy.com/uk/listing/757499822/modularsamplescom-library-ssd)
+
+[The entire collection on a portable drive.](https://www.etsy.com/uk/listing/757499822/modularsamplescom-library-ssd)
+
+[Prices start at £40](https://www.etsy.com/uk/listing/757499822/modularsamplescom-library-ssd)
