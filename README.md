@@ -2,7 +2,6 @@
 
 A collection of one shots sampled from a Eurorack Modular synthesizer.
 
- - **Files**: 
 -  **Formats:** AIF & WAV
 -   **Approx Size:** 94mb
 - [Web Audio Demo](https://www.modularsamples.com/Demos/demos/modularhits.html)
